@@ -35,7 +35,8 @@
  */
 
 var cnames_active = {
-    "": "js-org.github.io"
+    "": "js-org.github.io",
+    ,"hhao99": "hhao99.github.io" // hhao99 blog site
     ,"medit": "echosoar.github.io/medit"
     ,"100dayz": "deadcoder0904.github.io/100dayz"
     ,"101": "7anshuai.github.io/js101" //noCF? (don´t add this in a new PR)
